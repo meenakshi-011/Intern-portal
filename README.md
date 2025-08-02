@@ -25,13 +25,13 @@
 ## 📸 Screenshots
 
 ### 🏠 Login View  
-![Login](./screenshots/Login.png)
+![Login](./Screenshots/Login.png)
 
 ### 📋 Dashboard view  
-![Dashboard](./screenshots/Dashboard.png)
+![Dashboard](./Screenshots/Dashboard.png)
 
 ### LeaderBoard view
-![Leaderboard](./screenshots/Leaderboard.png)
+![Leaderboard](./Screenshots/Leaderboard.png)
 
 ---
 
