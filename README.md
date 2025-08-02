@@ -39,7 +39,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/intern-portal.git
+git clone https://github.com/meenakshi-011/intern-portal.git
 
 # Navigate to frontend
 cd intern-portal/frontend
