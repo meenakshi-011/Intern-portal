@@ -1,0 +1,71 @@
+.lb-wrapper {
+  max-width: 700px;
+  margin: 50px auto;
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.lb-title {
+  text-align: center;
+  font-size: 34px;
+  font-weight: 600;
+  color: #1f2937;
+  margin-bottom: 30px;
+}
+
+.lb-card {
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
+  padding: 20px 30px;
+}
+
+.lb-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #e5e7eb;
+  padding: 14px 0;
+  font-size: 18px;
+  color: #374151;
+}
+
+.lb-item:last-child {
+  border-bottom: none;
+}
+
+.lb-rank {
+  width: 50px;
+  font-size: 22px;
+  text-align: center;
+}
+
+.rank-1 {
+  color: #eab308;
+}
+
+.rank-2 {
+  color: #9ca3af;
+}
+
+.rank-3 {
+  color: #f97316;
+}
+
+.lb-name {
+  flex: 1;
+  font-weight: 500;
+  margin-left: 10px;
+}
+
+.lb-amount {
+  font-weight: 600;
+  color: #10b981;
+}
+
+.lb-empty {
+  text-align: center;
+  color: #6b7280;
+  font-size: 16px;
+  padding: 20px;
+}
